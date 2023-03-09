@@ -1,2 +1,0 @@
-go:
-	npm run dev

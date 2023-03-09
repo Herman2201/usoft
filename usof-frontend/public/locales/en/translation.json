@@ -1,0 +1,217 @@
+{
+  "header": {
+    "login": "Sing-in",
+    "register": "Sing-up",
+    "list": {
+      "item1": "Profile",
+      "item2": "Profile editing",
+      "item3": "Create post",
+      "item4": "Logout"
+    }
+  },
+  "body": {
+    "login": {
+      "title": "Sing-in",
+      "btn-home": "Back to Home",
+      "fields": {
+        "login": {
+          "title": "Login",
+          "placeholder": "Enter login"
+        },
+        "password": {
+          "title": "Password",
+          "placeholder": "Enter password"
+        }
+      },
+      "forgot-pass": "forgot password",
+      "remember": "remember me",
+      "no-account": "no account?",
+      "register": "sing-up"
+    },
+    "register": {
+      "title": "Sing-up",
+      "btn-home": "Back to home",
+      "fields": {
+        "login": {
+          "title": "Login",
+          "placeholder": "guest123"
+        },
+        "email": {
+          "title": "Email",
+          "placeholder": "your@example.com"
+        },
+        "password": {
+          "title": "Password",
+          "placeholder": "qwerty123"
+        },
+        "comfirm-password": {
+          "title": "Password confirm",
+          "placeholder": "Enter password confirm"
+        }
+      },
+      "conditions": {
+        "item1": "I accept the",
+        "item2": "Terms and Conditions"
+      },
+      "sing-in": {
+        "item1": "Already have an account?",
+        "item2": "Sign in"
+      }
+    },
+    "posts-page": {
+      "btn-category": {
+        "name": "Add category"
+      },
+      "post": {
+        "author": "By",
+        "publish": "Published",
+        "reading-time": "Reading time",
+        "btn-read": "Read"
+      }
+    },
+    "post-page": {
+      "category": {
+        "description": "Description: "
+      },
+      "btn-edit": "Edit",
+      "btn-delete": "Delete",
+      "create-comment": {
+        "title": "Add a comment:",
+        "btn-create": "Post comment"
+      }
+    },
+    "profile": {
+      "title": "About",
+      "info": {
+        "fullname": "Full name:",
+        "login": "Login:",
+        "email": "Email:"
+      },
+      "attribution": "Owner of his account.",
+      "rating": "Rating:",
+      "member": "Member since",
+      "btn-edit": "Profile editing",
+      "btn-del": "Delete profile"
+    },
+    "comfirm-email": {
+      "invalid-token": {
+        "title": "Invalid token",
+        "text": "The token has expired, this happened because you did not follow the link in the mail at the right time, please register again"
+      },
+      "failed": {
+        "title": "The mail has already been confirmed",
+        "text": "Looks like you have already confirmed your mail, so you can use page"
+      },
+      "comfirm": {
+        "title": "Comfirmed",
+        "text": "Thank you for registering on our site, now you can create your posts, like and comment!\nI hope you will cooperate with us, good use of our Usof Forym:)"
+      },
+      "developer": { "name": "Ushkalo Herman", "profession": "UI DEVELOPER" }
+    },
+    "reset-password": {
+      "title": " Reset password",
+      "field": {
+        "email": {
+          "title": "Email",
+          "placeholder": "Enter email"
+        }
+      },
+      "btn-send": "Send massage",
+      "back-page": {
+        "item1": "back",
+        "item2": "login"
+      }
+    },
+    "new-password": {
+      "title": " New password",
+      "invalid-token": {
+        "title": "Invalid token",
+        "text": "The token has expired, this happened because you did not follow the link in the email in time, please do the operation again."
+      },
+      "fields": {
+        "password": {
+          "title": "Password",
+          "placeholder": "Enter password"
+        },
+        "comfirm-password": {
+          "title": "Comfirm password",
+          "placeholder": "Enter comfirm password"
+        }
+      },
+      "btn-send": "Send password"
+    },
+    "create-category": {
+      "title": "Create category",
+      "fields": {
+        "title": {
+          "title": "Title",
+          "placeholder": "Enter title"
+        },
+        "description": {
+          "title": "Description",
+          "placeholder": "Enter description"
+        }
+      },
+      "btn-create": "Create"
+    },
+    "create-post": {
+      "title": "Create post",
+      "fields": {
+        "title": {
+          "title": "Title",
+          "placeholder": "Enter title"
+        },
+        "categories": {
+          "title": "Сhoose categories (up to 3 pieces)",
+          "placeholder": "Select..."
+        },
+        "content": {
+          "title": "Content",
+          "placeholder": "Enter content"
+        }
+      },
+      "picture": {
+        "title": "Upload photo",
+        "upload": {
+          "item1": "Upload",
+          "item2": "image:"
+        },
+        "dowland": {
+          "item1": "Download",
+          "item2": "image"
+        },
+        "link-upload": "upload"
+      },
+      "btn-create": "Create"
+    },
+    "not-found": {
+      "title": "404 - Page not found",
+      "text": {
+        "item1": "The page you are looking for doesn't exist or \nhas been removed. Go",
+        "item2": "home"
+      }
+    },
+    "edit-user": {
+      "title": "Edit profile",
+      "fields": {
+        "login": {
+          "title": "Login",
+          "placeholder": "Enter login"
+        },
+        "email": {
+          "title": "Email",
+          "placeholder": "Enter email"
+        },
+        "full-name": {
+          "title": "Full name",
+          "placeholder": "Enter full name"
+        }
+      },
+      "btn-edit": "Edit"
+    }
+  },
+  "footer": {
+    "language": "Language:",
+    "copyright": "Copyright © 2022. All rights reserved."
+  }
+}
